@@ -1,8 +1,10 @@
-streamlit
-opencv-python-headless==4.10.0.84
-openvino
-numpy==1.26.4
-streamlit-camera-input-live==0.2.0
-scipy
-streamlit_webrtc
-mediapipe
+pip install streamlit
+pip install opencv-python
+pip install mediapipe
+pip install sqlite3
+pip install numpy
+pip install pillow
+pip install dlib
+pip install cmake
+pip install face_recognition
+pip install streamlit-option-menu
