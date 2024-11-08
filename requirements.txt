@@ -4,4 +4,6 @@ mediapipe
 numpy
 pillow
 face-recognition
+dlib
+cmake
 streamlit-option-menu
